@@ -1,16 +1,16 @@
 ![Untitled-1](https://github.com/Gl-RDN/Rental-Properties-in-Germany-Immobscout24-data/assets/124837500/bf417cc6-64e9-4b46-bbc0-644ae0c7c6eb)
 
-## **Introduction**:
+### **Introduction**:
   The findings of this analysis could help and guide individuals and retailers to make better decision on their search of rental apartment. Help them towards realistic and fair rental values in the state and increase likelihood of finding affordable accommodation.
 From the storyboard on Tableau you can see more information about what predicts the price of real estate in Germany based on data from Immoscout24, Immoscout24 has listings for both rental properties and homes for sale, however, we soliy focused on rental properties.
 
 Donwload link for the data set [https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany/download?datasetVersionNumber=6](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany/download?datasetVersionNumber=6)
-## **Content**:
+### **Content**:
   The data set contains most of the important properties, such as living area size, both base rent as well as total rent, the location (bundesland, city, zip code), type of energy etc. 
   The original data set has 268850 rows and 49 columns.
   The Cleaned data set has 184946 rows and 18 columns.
   
-## **Limitation**:
+### **Limitation**:
   Even the immoscout24 is the biggest real state platform in Germany there could be data bias due to incomplete information about each listing or there may be some deviation. We can’t assure that every listing is correct.
 
 ## **Key Questions and Objectives**:
@@ -22,16 +22,10 @@ Donwload link for the data set [https://www.kaggle.com/datasets/corrieaar/apartm
     Is there any notable difference between east and west Germany (looking at the map when visualizing)? If there is a difference what are those? Why is it like that?
     In chosen 3 big cities /Berlin, München, Frankfurt am Main/ which areas have the most listing and moderate price?
 
-## **Data Set**:
-data set encompassing Rockbuster's film inventory, customer profiles, and payment details. This data, stored in a PostgreSQL database, facilitates in-depth analysis to derive actionable insights.
+## **Tools and Resources Used**:
+    Tools: Python, Excel and Tableau
 
-## **Final Analysis Criteria**:
-- SQL queries to address business inquiries effectively.
-- Visualizations for managerial consumption.
-- Translate SQL results into formats accessible to technical colleagues, such as Excel and data dictionaries.
-- Develop a professional project for portfolio showcase, highlighting your analytical prowess and project management skills.
+
 
 ## **Deliverables**
-**Visualizations**: Chech out the [Tableau Dashboard](https://public.tableau.com/app/profile/gal.erdene.gantulga/viz/RockbusterSteathAData-drivenApproachtoDigitalExpansion/Rockbuster?publish=yes) for interactive insights.
-
-**Final Project PDF**: Detailed report in the Final Project PDF
+**Visualizations**: Chech out the [Tableau Storyboard](https://public.tableau.com/app/profile/gal.erdene.gantulga/viz/GermanysRentalPropertyanalysis/FirstPage?publish=yes)
