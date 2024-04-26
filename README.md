@@ -13,7 +13,7 @@ Donwload link for the data set [https://www.kaggle.com/datasets/corrieaar/apartm
 ### **Limitation**:
   Even the immoscout24 is the biggest real state platform in Germany there could be data bias due to incomplete information about each listing or there may be some deviation. We can’t assure that every listing is correct.
 
-## **Key Questions and Objectives**:
+## **Key Questions**:
 
   - Which areas have the highest rent price in Germany? 
   - Which areas have the most listings (available property)? 
@@ -34,10 +34,21 @@ Donwload link for the data set [https://www.kaggle.com/datasets/corrieaar/apartm
 - [x]  Create a data dashboard communicating research findings and insights
 
 ## **Tools and Resources Used**:
-  Tools: Python, Excel and Tableau
-  Packages: np, pandas, plotly, matplotlib, lightgbm,jsonn ydata_profiling etc.
+  - The analysis was carried out using Python, Excel and Tableau.
+  - Packages: np, pandas, plotly, matplotlib, lightgbm,jsonn ydata_profiling etc.
 
 
 
-## **Deliverables**
-**Visualizations**: Chech out the [Tableau Storyboard](https://public.tableau.com/app/profile/gal.erdene.gantulga/viz/GermanysRentalPropertyanalysis/FirstPage?publish=yes)
+## **Presenting the findings as a Tableau Dashboard for the general public**
+Chech out the [Tableau Storyboard](https://public.tableau.com/app/profile/gal.erdene.gantulga/viz/GermanysRentalPropertyanalysis/FirstPage?publish=yes)
+
+![tabpublic_RM713VOIWn](https://github.com/Gl-RDN/Rental-Properties-in-Germany-Immobscout24-data/assets/124837500/1d4de6fa-b2eb-4458-8416-f596bc9bb8be)
+
+![tabpublic_uKm5Za5uIY](https://github.com/Gl-RDN/Rental-Properties-in-Germany-Immobscout24-data/assets/124837500/9962054d-d3e7-46f7-b311-d4e7cb04381c)
+
+![tabpublic_EmlOBDK4x8](https://github.com/Gl-RDN/Rental-Properties-in-Germany-Immobscout24-data/assets/124837500/798e5266-f966-4a5b-b940-63285a6dc281)
+
+![tabpublic_cccq5mXSPc](https://github.com/Gl-RDN/Rental-Properties-in-Germany-Immobscout24-data/assets/124837500/bb847c43-6bd3-456e-a982-7a4ef91ce17c)
+
+![tabpublic_fMYMYI9usD](https://github.com/Gl-RDN/Rental-Properties-in-Germany-Immobscout24-data/assets/124837500/2ba73697-d95c-4766-b5dc-d55fd709cd56)
+
