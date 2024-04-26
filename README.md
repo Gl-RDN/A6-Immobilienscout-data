@@ -14,16 +14,27 @@ Donwload link for the data set [https://www.kaggle.com/datasets/corrieaar/apartm
   Even the immoscout24 is the biggest real state platform in Germany there could be data bias due to incomplete information about each listing or there may be some deviation. We can’t assure that every listing is correct.
 
 ## **Key Questions and Objectives**:
-    Which areas have the highest rent price in Germany? 
-    Which areas have the most listings (available property)? 
-    What are the main features of the highest priced listing? 
-    In big cities, is there notable price difference between city center and surrounding areas?
-    What are the most common characteristics of the listed apartments?
-    Is there any notable difference between east and west Germany (looking at the map when visualizing)? If there is a difference what are those? Why is it like that?
-    In chosen 3 big cities /Berlin, München, Frankfurt am Main/ which areas have the most listing and moderate price?
+  Which areas have the highest rent price in Germany? 
+  Which areas have the most listings (available property)? 
+  What are the main features of the highest priced listing? 
+  In big cities, is there notable price difference between city center and surrounding areas?
+  What are the most common characteristics of the listed apartments?
+  Is there any notable difference between east and west Germany (looking at the map when visualizing)? If there is a difference what are those? Why is it like that?
+  In chosen 3 big cities /Berlin, München, Frankfurt am Main/ which areas have the most listing and moderate price?
+
+## **Data Analysis Tasks**:
+- [x]  Formulating a research hypothesis and sourcing the right data
+  Data profiling, quality, transformation and integration
+  Exploratory data analysis
+  Supervised Machine Learning: Regression
+  Unsupervised Machine Learning: Clustering
+  Analyzing Time Series Data
+  Consolidating analytical insights
+  Create a data dashboard communicating research findings and insights
 
 ## **Tools and Resources Used**:
-    Tools: Python, Excel and Tableau
+  Tools: Python, Excel and Tableau
+  Packages: np, pandas, plotly, matplotlib, lightgbm,jsonn ydata_profiling etc.
 
 
 
